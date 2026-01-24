@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BTM Textiles Market pro 2",
+  "description": "A production-ready SaaS marketplace for the textile industry with 30-day trials and subscription management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
