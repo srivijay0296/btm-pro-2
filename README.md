@@ -1,20 +1,52 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# btm-pro-2
 
-# Run and deploy your AI Studio app
+![GitHub last commit](https://img.shields.io/github/last-commit/srivijay0296/btm-pro-2)
+![GitHub issues](https://img.shields.io/github/issues/srivijay0296/btm-pro-2)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/srivijay0296/btm-pro-2)
 
-This contains everything you need to run your app locally.
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
 
-View your app in AI Studio: https://ai.studio/apps/drive/1dMFI7CjtACtv7UYqVKS-E6B-y64baaN3
+## Tech Stack
+- Language: JavaScript
+- Framework: Node.js
+- Database: MongoDB
+- Other technologies used: React, Express
 
-## Run Locally
+## Installation Guide
+To install this project, follow the steps below:
 
-**Prerequisites:**  Node.js
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/srivijay0296/btm-pro-2.git
+   ```
+   
+2. Navigate to the project directory:
+   ```bash
+   cd btm-pro-2
+   ```
 
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Deployment Instructions
+To deploy this project, you can follow these steps:
+
+1. Build the project:
+   ```bash
+   npm run build
+   ```
+
+2. Start the server:
+   ```bash
+   npm start
+   ```
+
+## Pro Tips
+- To ensure smooth operation, keep your Node.js version updated.
+- Regularly check for package updates to avoid security vulnerabilities.
+- Utilize environment variables for sensitive data.
